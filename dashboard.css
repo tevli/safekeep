@@ -1,0 +1,16 @@
+/** Here is where i will define styles for all parts of the site.   **/
+.center{
+  margin: auto;
+  width: 50%;
+  border: 3px solid #0000 ;
+  padding:10px;
+}
+.icofont-check-circled{
+  font-size: 20px;
+}
+.xax {
+  box-shadow: 5px 10px gray;
+}
+.yay {
+  box-shadow: 5px 10px rgb(201, 129, 129);
+}
